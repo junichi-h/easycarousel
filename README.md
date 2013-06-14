@@ -18,22 +18,22 @@ usage
 
 parameter
 ----------------
-+   `shownTime` :  Number
++   `shownTime` :  Number  
     time how much time you want show.
 
 
-+   `duration` :  Number
++   `duration` :  Number  
     animation speed.
 
 
-+   `easing` :  Function
++   `easing` :  Function  
     easing type. have to check [jQuery.easing](http://gsgd.co.uk/sandbox/jquery/easing/)
 
-+   `hasIndicator` :  Boolean
++   `hasIndicator` :  Boolean  
     have indicator button or not.
 
-+   `indi` :  Object
++   `indi` :  Object  
     jQuery Object, indicator button DOM.
 
-+   `on` :  String
++   `on` :  String  
     class name which is to activate for inidicator button.
