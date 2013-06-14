@@ -1,4 +1,4 @@
 [jQuery](http://jquery.com/) - plugin :: easycarousel
-============
+======================
 
-This is a repository of javascript for creating Carousel as easy as using jQuery.
+This plugin is to make infinity carousel very easily using jQuery.
